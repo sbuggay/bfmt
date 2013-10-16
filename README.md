@@ -1,4 +1,4 @@
 bfmt
 ====
 
-BrainFuck
+Simple BrainFuck interpreter
